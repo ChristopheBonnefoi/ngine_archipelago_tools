@@ -1,0 +1,23 @@
+# Python compilé
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnement virtuel
+venv/
+.env/
+
+# Fichiers temporaires et de log
+*.log
+*.tmp
+*.bak
+
+# Fichiers système (Windows/macOS)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Fichiers générés par l'application
+*.csv
+*.zip
+
