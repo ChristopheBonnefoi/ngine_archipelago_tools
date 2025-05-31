@@ -19,5 +19,8 @@ ehthumbs.db
 
 # Fichiers générés par l'application
 *.csv
+*.txt
 *.zip
 
+# On autorise requirements.txt même s’il est en .txt
+!requirements.txt
